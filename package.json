@@ -9,7 +9,9 @@
     "email": "me@mikkoh.com",
     "url": "https://github.com/mikkoh"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bigwheel": "^1.2.2"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
